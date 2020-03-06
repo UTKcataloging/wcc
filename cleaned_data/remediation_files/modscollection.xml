@@ -2,7 +2,7 @@
 <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
 <identifier type="documentID">wcc069</identifier>
 
-<identifier type="pid">wcc_310</identifier>
+<identifier type="pid">wcc:310</identifier>
 
 <titleInfo><title>Brewer's Clearing on Little River (Upper end of Miller's Cove)</title></titleInfo>
 
@@ -127,12 +127,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc046</identifier>
 
-<identifier type="pid">wcc_336</identifier>
+<identifier type="pid">wcc:336</identifier>
 
 <titleInfo><title>View from road over Scott Mt. (Great Smoky Mts. in distance lost by over exposure)</title></titleInfo>
 
@@ -257,12 +255,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc033</identifier>
 
-<identifier type="pid">wcc_321</identifier>
+<identifier type="pid">wcc:321</identifier>
 
 <titleInfo><title>Little River opposite Uncle Sammy Walker's house-Miller's Cove (A.P. Holt wading)</title></titleInfo>
 
@@ -387,12 +383,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc097</identifier>
 
-<identifier type="pid">wcc_348</identifier>
+<identifier type="pid">wcc:348</identifier>
 
 <titleInfo><title>Early morning in Cade's Cove - Cloud on Cade's Cove Mt.</title></titleInfo>
 
@@ -517,12 +511,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc089</identifier>
 
-<identifier type="pid">wcc_340</identifier>
+<identifier type="pid">wcc:340</identifier>
 
 <titleInfo><title>Little River Gap from road near Vance Walker's house, Miller's Cove</title></titleInfo>
 
@@ -647,12 +639,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc107</identifier>
 
-<identifier type="pid">wcc_355</identifier>
+<identifier type="pid">wcc:355</identifier>
 
 <titleInfo><title>Little River Valley from verandah of Mt. Nebo House</title></titleInfo>
 
@@ -777,12 +767,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc026</identifier>
 
-<identifier type="pid">wcc_307</identifier>
+<identifier type="pid">wcc:307</identifier>
 
 <titleInfo><title>Flank of Mt. Nebo from slope of Pine Mt.</title></titleInfo>
 
@@ -907,12 +895,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc060</identifier>
 
-<identifier type="pid">wcc_294</identifier>
+<identifier type="pid">wcc:294</identifier>
 
 <titleInfo><title>Little, or Fox Mt. from road over Scott Mt.</title></titleInfo>
 
@@ -1037,12 +1023,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc023</identifier>
 
-<identifier type="pid">wcc_301</identifier>
+<identifier type="pid">wcc:301</identifier>
 
 <titleInfo><title>Woodland trail near Melrose Spring</title></titleInfo>
 
@@ -1167,12 +1151,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc014</identifier>
 
-<identifier type="pid">wcc_283</identifier>
+<identifier type="pid">wcc:283</identifier>
 
 <titleInfo><title>Bly's cabin Mt. Nebo Blount Co. Tenn.</title></titleInfo>
 
@@ -1297,12 +1279,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc079</identifier>
 
-<identifier type="pid">wcc_320</identifier>
+<identifier type="pid">wcc:320</identifier>
 
 <titleInfo><title>View on Maryville Road in front of W. L. Calter's</title></titleInfo>
 
@@ -1427,12 +1407,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc066</identifier>
 
-<identifier type="pid">wcc_304</identifier>
+<identifier type="pid">wcc:304</identifier>
 
 <titleInfo><title>Cliff on Little River below Tuckaleechee Cove</title></titleInfo>
 
@@ -1557,12 +1535,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc039</identifier>
 
-<identifier type="pid">wcc_270</identifier>
+<identifier type="pid">wcc:270</identifier>
 
 <titleInfo><title>Pine Mt. - Chilhowee R. - from Miller's Cove</title></titleInfo>
 
@@ -1687,12 +1663,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc053</identifier>
 
-<identifier type="pid">wcc_280</identifier>
+<identifier type="pid">wcc:280</identifier>
 
 <titleInfo><title>Laurel Creek road near A.J. Dorsey's</title></titleInfo>
 
@@ -1817,12 +1791,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc075</identifier>
 
-<identifier type="pid">wcc_316</identifier>
+<identifier type="pid">wcc:316</identifier>
 
 <titleInfo><title>Neubern's Mills and Dam Little River below Gap.</title></titleInfo>
 
@@ -1947,12 +1919,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc047</identifier>
 
-<identifier type="pid">wcc_338</identifier>
+<identifier type="pid">wcc:338</identifier>
 
 <titleInfo><title>A.J. Dorsey's cabin. Family at breakfast</title></titleInfo>
 
@@ -2077,12 +2047,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc083</identifier>
 
-<identifier type="pid">wcc_328</identifier>
+<identifier type="pid">wcc:328</identifier>
 
 <titleInfo><title>Chilhowee Range (looking North) from Tower Rocks</title></titleInfo>
 
@@ -2207,12 +2175,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc091</identifier>
 
-<identifier type="pid">wcc_342</identifier>
+<identifier type="pid">wcc:342</identifier>
 
 <titleInfo><title>Mountain clearing in pocket on road from Tuckaleechee to Cade's Cove</title></titleInfo>
 
@@ -2337,12 +2303,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc044</identifier>
 
-<identifier type="pid">wcc_332</identifier>
+<identifier type="pid">wcc:332</identifier>
 
 <titleInfo><title>Up Little River from below Tuckaleechee Cove</title></titleInfo>
 
@@ -2467,12 +2431,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc055</identifier>
 
-<identifier type="pid">wcc_284</identifier>
+<identifier type="pid">wcc:284</identifier>
 
 <titleInfo><title>Bridle path to Robt. Spence's (Island)</title></titleInfo>
 
@@ -2597,12 +2559,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc021</identifier>
 
-<identifier type="pid">wcc_297</identifier>
+<identifier type="pid">wcc:297</identifier>
 
 <titleInfo><title>Guests at Melrose Spring Hotel. Blount Co. Tenn. -taken by request</title></titleInfo>
 
@@ -2727,12 +2687,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc105</identifier>
 
-<identifier type="pid">wcc_353</identifier>
+<identifier type="pid">wcc:353</identifier>
 
 <titleInfo><title>Sea of cloud, 6 A.M. from Sunset Hill, Mt. Nebo</title></titleInfo>
 
@@ -2857,12 +2815,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc016</identifier>
 
-<identifier type="pid">wcc_287</identifier>
+<identifier type="pid">wcc:287</identifier>
 
 <titleInfo><title>Auntie Bly - spinning</title></titleInfo>
 
@@ -2987,12 +2943,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc017</identifier>
 
-<identifier type="pid">wcc_289</identifier>
+<identifier type="pid">wcc:289</identifier>
 
 <titleInfo><title>Miss Lizzie Nourse posing as one of the natives Mt. Nebo</title></titleInfo>
 
@@ -3117,12 +3071,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc088</identifier>
 
-<identifier type="pid">wcc_339</identifier>
+<identifier type="pid">wcc:339</identifier>
 
 <titleInfo><title>Alvin Walker's house on Flat Branch. Little River Miller's Cove</title></titleInfo>
 
@@ -3247,12 +3199,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc006</identifier>
 
-<identifier type="pid">wcc_269</identifier>
+<identifier type="pid">wcc:269</identifier>
 
 <titleInfo><title>Knoxville E. Tenn. University taken August 11/86</title></titleInfo>
 
@@ -3377,12 +3327,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc095</identifier>
 
-<identifier type="pid">wcc_346</identifier>
+<identifier type="pid">wcc:346</identifier>
 
 <titleInfo><title>Thunderhead and Blockhouse from summit of Big Bald</title></titleInfo>
 
@@ -3507,12 +3455,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc024</identifier>
 
-<identifier type="pid">wcc_303</identifier>
+<identifier type="pid">wcc:303</identifier>
 
 <titleInfo><title>Spring and rocks at Mt. Nebo. Blount Co. Tenn.</title></titleInfo>
 
@@ -3637,12 +3583,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc094</identifier>
 
-<identifier type="pid">wcc_345</identifier>
+<identifier type="pid">wcc:345</identifier>
 
 <titleInfo><title>Rye field and "Twenty Mile Range" from summit of Big Bald</title></titleInfo>
 
@@ -3767,12 +3711,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc012</identifier>
 
-<identifier type="pid">wcc_279</identifier>
+<identifier type="pid">wcc:279</identifier>
 
 <titleInfo><title>Gorge below Spring house Mt. Nebo</title></titleInfo>
 
@@ -3897,12 +3839,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc031</identifier>
 
-<identifier type="pid">wcc_317</identifier>
+<identifier type="pid">wcc:317</identifier>
 
 <titleInfo><title>Down Little River from point in front of Sammie Walker's-Miller's Cove</title></titleInfo>
 
@@ -4027,12 +3967,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc101</identifier>
 
-<identifier type="pid">wcc_350</identifier>
+<identifier type="pid">wcc:350</identifier>
 
 <titleInfo><title>Crossed pines on road from Cade's Cove to Tuckaleechee</title></titleInfo>
 
@@ -4157,12 +4095,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc084</identifier>
 
-<identifier type="pid">wcc_331</identifier>
+<identifier type="pid">wcc:331</identifier>
 
 <titleInfo><title>"Tower Rocks" (from above) John Walker on right</title></titleInfo>
 
@@ -4287,12 +4223,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc020</identifier>
 
-<identifier type="pid">wcc_295</identifier>
+<identifier type="pid">wcc:295</identifier>
 
 <titleInfo><title>Path from Melrose Spring - to Hotel. Blount Co. Tenn</title></titleInfo>
 
@@ -4417,12 +4351,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc043</identifier>
 
-<identifier type="pid">wcc_330</identifier>
+<identifier type="pid">wcc:330</identifier>
 
 <titleInfo><title>Down Little River below Tuckaleechee Cove</title></titleInfo>
 
@@ -4547,12 +4479,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc068</identifier>
 
-<identifier type="pid">wcc_308</identifier>
+<identifier type="pid">wcc:308</identifier>
 
 <titleInfo><title>View from high road in pass bet. Miller's Cove and Tuckaleechee</title></titleInfo>
 
@@ -4677,12 +4607,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc058</identifier>
 
-<identifier type="pid">wcc_290</identifier>
+<identifier type="pid">wcc:290</identifier>
 
 <titleInfo><title>Pine forest on slope of Scott Mt. Blount Co. Tenn.</title></titleInfo>
 
@@ -4807,12 +4735,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc082</identifier>
 
-<identifier type="pid">wcc_326</identifier>
+<identifier type="pid">wcc:326</identifier>
 
 <titleInfo><title>"Tower Rocks" on Flat Branch Little River from opp. Slope of ravine</title></titleInfo>
 
@@ -4937,12 +4863,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc036</identifier>
 
-<identifier type="pid">wcc_327</identifier>
+<identifier type="pid">wcc:327</identifier>
 
 <titleInfo><title>Miller's Cove (looking S.E. from Hatcher's) Dr. C.S. Evans in foreground</title></titleInfo>
 
@@ -5067,12 +4991,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc070</identifier>
 
-<identifier type="pid">wcc_312</identifier>
+<identifier type="pid">wcc:312</identifier>
 
 <titleInfo><title>Cliff on Little River above Sam Walker's</title></titleInfo>
 
@@ -5197,12 +5119,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc076</identifier>
 
-<identifier type="pid">wcc_318</identifier>
+<identifier type="pid">wcc:318</identifier>
 
 <titleInfo><title>Neubern's Mill pond below Little River Gap.</title></titleInfo>
 
@@ -5327,12 +5247,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc106</identifier>
 
-<identifier type="pid">wcc_354</identifier>
+<identifier type="pid">wcc:354</identifier>
 
 <titleInfo><title>Little River Valley from point of rocks N. of Mt. Nebo House</title></titleInfo>
 
@@ -5457,12 +5375,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc029</identifier>
 
-<identifier type="pid">wcc_313</identifier>
+<identifier type="pid">wcc:313</identifier>
 
 <titleInfo><title>View in Miller's Cove - Walker's boys "totin' cha'coal"</title></titleInfo>
 
@@ -5587,12 +5503,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc090</identifier>
 
-<identifier type="pid">wcc_341</identifier>
+<identifier type="pid">wcc:341</identifier>
 
 <titleInfo><title>Spring and rocks at McCampbell's Mill. Tuckaleechee, noon recess of school</title></titleInfo>
 
@@ -5717,12 +5631,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc042</identifier>
 
-<identifier type="pid">wcc_272</identifier>
+<identifier type="pid">wcc:272</identifier>
 
 <titleInfo><title>Little River above Vance Walker's</title></titleInfo>
 
@@ -5847,12 +5759,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc025</identifier>
 
-<identifier type="pid">wcc_305</identifier>
+<identifier type="pid">wcc:305</identifier>
 
 <titleInfo><title>View from verandah of Mt. Nebo house - Blount Co.</title></titleInfo>
 
@@ -5977,12 +5887,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc037</identifier>
 
-<identifier type="pid">wcc_329</identifier>
+<identifier type="pid">wcc:329</identifier>
 
 <titleInfo><title>Sam Walker's cabin and garden. Miller's Cove, Tenn.</title></titleInfo>
 
@@ -6107,12 +6015,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc093</identifier>
 
-<identifier type="pid">wcc_344</identifier>
+<identifier type="pid">wcc:344</identifier>
 
 <titleInfo><title>Squire D. B. Lawson's house. Cade's Cove - Blount Co. Tenn.</title></titleInfo>
 
@@ -6237,12 +6143,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc108</identifier>
 
-<identifier type="pid">wcc_356</identifier>
+<identifier type="pid">wcc:356</identifier>
 
 <titleInfo><title>University of E. Tennessee - Knoxville</title></titleInfo>
 
@@ -6367,12 +6271,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc008</identifier>
 
-<identifier type="pid">wcc_273</identifier>
+<identifier type="pid">wcc:273</identifier>
 
 <titleInfo><title>Summit of Pine Mt. (looking west)Chilhowee Range Blount Co. Tenn.</title></titleInfo>
 
@@ -6497,12 +6399,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc064</identifier>
 
-<identifier type="pid">wcc_300</identifier>
+<identifier type="pid">wcc:300</identifier>
 
 <titleInfo><title>Yearout's Mill Tuckaleechee Cove Blount Co. Tenn.</title></titleInfo>
 
@@ -6627,12 +6527,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc022</identifier>
 
-<identifier type="pid">wcc_299</identifier>
+<identifier type="pid">wcc:299</identifier>
 
 <titleInfo><title>Distant view of Chilhowee R. from Melrose</title></titleInfo>
 
@@ -6757,12 +6655,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc051</identifier>
 
-<identifier type="pid">wcc_278</identifier>
+<identifier type="pid">wcc:278</identifier>
 
 <titleInfo><title>Dorsey's cabin in Middle Fork of Little River</title></titleInfo>
 
@@ -6887,12 +6783,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc085</identifier>
 
-<identifier type="pid">wcc_333</identifier>
+<identifier type="pid">wcc:333</identifier>
 
 <titleInfo><title>Slope of Pine Mt. from Sunset Hill. Mt. Nebo</title></titleInfo>
 
@@ -7017,12 +6911,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc034</identifier>
 
-<identifier type="pid">wcc_323</identifier>
+<identifier type="pid">wcc:323</identifier>
 
 <titleInfo><title>Saddle Mt. Little River Gap from near Sammie Walker's Miller's Cove</title></titleInfo>
 
@@ -7147,12 +7039,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc061</identifier>
 
-<identifier type="pid">wcc_296</identifier>
+<identifier type="pid">wcc:296</identifier>
 
 <titleInfo><title>Little, or Fox Mt. from mud road at foot of Scott Mt.</title></titleInfo>
 
@@ -7277,12 +7167,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc080</identifier>
 
-<identifier type="pid">wcc_322</identifier>
+<identifier type="pid">wcc:322</identifier>
 
 <titleInfo><title>Knob on Chilhowee R</title></titleInfo>
 
@@ -7407,12 +7295,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc035</identifier>
 
-<identifier type="pid">wcc_325</identifier>
+<identifier type="pid">wcc:325</identifier>
 
 <titleInfo><title>Saddle Mt. -Chilhowee R. - from Sam Walker's backyard</title></titleInfo>
 
@@ -7537,12 +7423,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc018</identifier>
 
-<identifier type="pid">wcc_291</identifier>
+<identifier type="pid">wcc:291</identifier>
 
 <titleInfo><title>Mt. Nebo - Chilhowee R. from ridge near Melrose</title></titleInfo>
 
@@ -7667,12 +7551,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc092</identifier>
 
-<identifier type="pid">wcc_343</identifier>
+<identifier type="pid">wcc:343</identifier>
 
 <titleInfo><title>Tipton's Sugar Cove Mt. from rear of Squire D.B. Lawson's, Cade's Cove</title></titleInfo>
 
@@ -7797,12 +7679,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc050</identifier>
 
-<identifier type="pid">wcc_276</identifier>
+<identifier type="pid">wcc:276</identifier>
 
 <titleInfo><title>Great Smoky Mts. From E. slope of Defeat Mt.</title></titleInfo>
 
@@ -7927,12 +7807,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc059</identifier>
 
-<identifier type="pid">wcc_292</identifier>
+<identifier type="pid">wcc:292</identifier>
 
 <titleInfo><title>Giant pines on Scott Mt.</title></titleInfo>
 
@@ -8057,12 +7935,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc019</identifier>
 
-<identifier type="pid">wcc_293</identifier>
+<identifier type="pid">wcc:293</identifier>
 
 <titleInfo><title>Mt. Nebo. Chilhowee R. from Melrose Spring</title></titleInfo>
 
@@ -8187,12 +8063,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc038</identifier>
 
-<identifier type="pid">wcc_268</identifier>
+<identifier type="pid">wcc:268</identifier>
 
 <titleInfo><title>Mt. Nebo - Chilhowee R. - from Miller's Cove</title></titleInfo>
 
@@ -8317,12 +8191,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc063</identifier>
 
-<identifier type="pid">wcc_298</identifier>
+<identifier type="pid">wcc:298</identifier>
 
 <titleInfo><title>Com. Caughron's house Tuckaleechee Cove Tenn.</title></titleInfo>
 
@@ -8447,12 +8319,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc009</identifier>
 
-<identifier type="pid">wcc_275</identifier>
+<identifier type="pid">wcc:275</identifier>
 
 <titleInfo><title>Summit of Pine Mt. (looking north)Chilhowee Range Blount Co. Tenn.</title></titleInfo>
 
@@ -8577,12 +8447,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc096</identifier>
 
-<identifier type="pid">wcc_347</identifier>
+<identifier type="pid">wcc:347</identifier>
 
 <titleInfo><title>Oak forest around summit of Big Bald Mt.</title></titleInfo>
 
@@ -8707,12 +8575,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc045</identifier>
 
-<identifier type="pid">wcc_334</identifier>
+<identifier type="pid">wcc:334</identifier>
 
 <titleInfo><title>Great Smoky Mts. From road over Scott Mt.</title></titleInfo>
 
@@ -8837,12 +8703,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc048</identifier>
 
-<identifier type="pid">wcc_274</identifier>
+<identifier type="pid">wcc:274</identifier>
 
 <titleInfo><title>Laurel Creek Road Blount Co. Tenn.</title></titleInfo>
 
@@ -8967,12 +8831,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc100</identifier>
 
-<identifier type="pid">wcc_349</identifier>
+<identifier type="pid">wcc:349</identifier>
 
 <titleInfo><title>Cade's Cove Mt. From road to Tuckaleechee</title></titleInfo>
 
@@ -9097,12 +8959,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc057</identifier>
 
-<identifier type="pid">wcc_288</identifier>
+<identifier type="pid">wcc:288</identifier>
 
 <titleInfo><title>Bridle path to Robt. Spence's (looking down)</title></titleInfo>
 
@@ -9227,12 +9087,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc067</identifier>
 
-<identifier type="pid">wcc_306</identifier>
+<identifier type="pid">wcc:306</identifier>
 
 <titleInfo><title>Double bend in Little River below Tuckaleechee Cove</title></titleInfo>
 
@@ -9357,12 +9215,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc104</identifier>
 
-<identifier type="pid">wcc_352</identifier>
+<identifier type="pid">wcc:352</identifier>
 
 <titleInfo><title>Sea of cloud, 6 A.M. from Sunset Hill, Mt. Nebo</title></titleInfo>
 
@@ -9487,12 +9343,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc081</identifier>
 
-<identifier type="pid">wcc_324</identifier>
+<identifier type="pid">wcc:324</identifier>
 
 <titleInfo><title>Chilhowee Range (looking South) near road from Maryville to Cade's Cove</title></titleInfo>
 
@@ -9617,12 +9471,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc087</identifier>
 
-<identifier type="pid">wcc_337</identifier>
+<identifier type="pid">wcc:337</identifier>
 
 <titleInfo><title>Avert's clearing. Miller's Cove</title></titleInfo>
 
@@ -9747,12 +9599,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc065</identifier>
 
-<identifier type="pid">wcc_302</identifier>
+<identifier type="pid">wcc:302</identifier>
 
 <titleInfo><title>Up Little River from ford at Tuckaleechee</title></titleInfo>
 
@@ -9877,12 +9727,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc028</identifier>
 
-<identifier type="pid">wcc_311</identifier>
+<identifier type="pid">wcc:311</identifier>
 
 <titleInfo><title>Looking toward Dammit from Pine Mt. Trail</title></titleInfo>
 
@@ -10007,12 +9855,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc027</identifier>
 
-<identifier type="pid">wcc_309</identifier>
+<identifier type="pid">wcc:309</identifier>
 
 <titleInfo><title>Fernbank in Pine Mt. Chilhowee R. Blount Co. Tenn.</title></titleInfo>
 
@@ -10137,12 +9983,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc011</identifier>
 
-<identifier type="pid">wcc_277</identifier>
+<identifier type="pid">wcc:277</identifier>
 
 <titleInfo><title>The aqueduct Mt. Nebo from Spring house</title></titleInfo>
 
@@ -10267,12 +10111,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc030</identifier>
 
-<identifier type="pid">wcc_315</identifier>
+<identifier type="pid">wcc:315</identifier>
 
 <titleInfo><title>Miller's Cove (looking North) from slope of Pine Mt.</title></titleInfo>
 
@@ -10397,12 +10239,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc015</identifier>
 
-<identifier type="pid">wcc_285</identifier>
+<identifier type="pid">wcc:285</identifier>
 
 <titleInfo><title>Bly's cabin Mt. Nebo Blount Co. Tenn.</title></titleInfo>
 
@@ -10527,12 +10367,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc056</identifier>
 
-<identifier type="pid">wcc_286</identifier>
+<identifier type="pid">wcc:286</identifier>
 
 <titleInfo><title>Bridle path to Robt. Spence's (cascades)</title></titleInfo>
 
@@ -10657,12 +10495,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc007</identifier>
 
-<identifier type="pid">wcc_271</identifier>
+<identifier type="pid">wcc:271</identifier>
 
 <titleInfo><title>Summit of Pine Mt. Chilhowee Range Blount Co. Tenn.</title></titleInfo>
 
@@ -10787,12 +10623,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc013</identifier>
 
-<identifier type="pid">wcc_281</identifier>
+<identifier type="pid">wcc:281</identifier>
 
 <titleInfo><title>Mt. Nebo house Chilhowee R. Blount Co. Tenn.</title></titleInfo>
 
@@ -10917,12 +10751,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc102</identifier>
 
-<identifier type="pid">wcc_351</identifier>
+<identifier type="pid">wcc:351</identifier>
 
 <titleInfo><title>Group of children at Cider Mill - below Little River Gap</title></titleInfo>
 
@@ -11047,12 +10879,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc073</identifier>
 
-<identifier type="pid">wcc_314</identifier>
+<identifier type="pid">wcc:314</identifier>
 
 <titleInfo><title>King's cabin. Mt. Nebo</title></titleInfo>
 
@@ -11177,12 +11007,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc054</identifier>
 
-<identifier type="pid">wcc_282</identifier>
+<identifier type="pid">wcc:282</identifier>
 
 <titleInfo><title>Laurel Creek road Blount Co. Tenn. (laurels)</title></titleInfo>
 
@@ -11307,12 +11135,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc086</identifier>
 
-<identifier type="pid">wcc_335</identifier>
+<identifier type="pid">wcc:335</identifier>
 
 <titleInfo><title>Slope of Pine Mt. from point of rocks N. of Mt Nebo House</title></titleInfo>
 
@@ -11437,12 +11263,10 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-<mods>
+</mods><mods>
 <identifier type="documentID">wcc032</identifier>
 
-<identifier type="pid">wcc_319</identifier>
+<identifier type="pid">wcc:319</identifier>
 
 <titleInfo><title>Ferry House near Little River Gap. Miller's Cove</title></titleInfo>
 
@@ -11567,6 +11391,4 @@
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
 
-</mods>
-
-</modsCollection>
+</mods></modsCollection>
