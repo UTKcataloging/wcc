@@ -39,10 +39,10 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85047299">
       <topic>Farms</topic>
    </subject>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/4641907">
-      <geographic>Miller Cove</geographic>
+   <subject authority="geonames" valueURI="https://sws.geonames.org/4641903/">
+      <geographic>Millers Cove</geographic>
       <cartographics>
-         <coordinates>35.18286, -85.98859</coordinates>
+         <coordinates>35.70842, -83.82434</coordinates>
       </cartographics>
    </subject>
    <subject authority="lcsh"
