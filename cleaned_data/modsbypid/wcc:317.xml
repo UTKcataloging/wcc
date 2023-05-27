@@ -44,10 +44,10 @@
          <coordinates>35.18286, -85.98859</coordinates>
       </cartographics>
    </subject>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/4119374">
+   <subject authority="geonames" valueURI="https://sws.geonames.org/9884945/">
       <geographic>Little River</geographic>
       <cartographics>
-         <coordinates>33.70054, -94.23434</coordinates>
+         <coordinates>35.65304, -83.56978</coordinates>
       </cartographics>
    </subject>
    <subject authority="lcsh"
