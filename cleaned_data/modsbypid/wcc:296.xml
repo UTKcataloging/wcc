@@ -35,16 +35,16 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/5750895">
+   <subject authority="geonames" valueURI="https://sws.geonames.org/4656241/">
       <geographic>Scott Mountain</geographic>
       <cartographics>
-         <coordinates>43.37199, -123.06495</coordinates>
+         <coordinates>35.62509, -83.76962</coordinates>
       </cartographics>
    </subject>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/5750895">
+   <subject authority="geonames" valueURI="https://sws.geonames.org/4656241/">
       <geographic>Scott Mountain</geographic>
       <cartographics>
-         <coordinates>43.37199, -123.06495</coordinates>
+         <coordinates>35.62509, -83.76962</coordinates>
       </cartographics>
    </subject>
    <subject authority="lcsh"
