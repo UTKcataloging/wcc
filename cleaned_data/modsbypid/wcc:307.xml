@@ -41,10 +41,10 @@
          <coordinates>35.72902, -83.82622</coordinates>
       </cartographics>
    </subject>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/2153081">
+   <subject authority="geonames" valueURI="https://sws.geonames.org/4649562/">
       <geographic>Pine Mountain</geographic>
       <cartographics>
-         <coordinates>-33.8318, 148.8512</coordinates>
+         <coordinates>35.59647, -83.91907</coordinates>
       </cartographics>
    </subject>
    <subject authority="lcsh"
