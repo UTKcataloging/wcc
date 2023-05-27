@@ -35,10 +35,10 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/5432425">
+   <subject authority="geonames" valueURI="https://sws.geonames.org/4644686/">
       <geographic>Mount Nebo</geographic>
       <cartographics>
-         <coordinates>37.67611, -107.50839</coordinates>
+         <coordinates>35.72902, -83.82622</coordinates>
       </cartographics>
    </subject>
    <subject authority="naf"
