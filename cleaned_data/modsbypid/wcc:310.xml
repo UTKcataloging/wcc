@@ -41,10 +41,10 @@
          <coordinates>33.70054, -94.23434</coordinates>
       </cartographics>
    </subject>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/4711528">
+   <subject authority="geonames" valueURI="https://sws.geonames.org/4641903/">
       <geographic>Millers Cove</geographic>
       <cartographics>
-         <coordinates>33.15623, -95.11438</coordinates>
+         <coordinates>35.70842, -83.82434</coordinates>
       </cartographics>
    </subject>
    <subject authority="lcsh"
