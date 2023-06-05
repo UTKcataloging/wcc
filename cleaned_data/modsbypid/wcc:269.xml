@@ -45,9 +45,12 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85017769">
       <topic>Buildings</topic>
    </subject>
-   <subject authority="naf"
-            valueURI="http://id.loc.gov/authorities/names/n79109786">
-      <geographic>Knoxville (Tenn.)</geographic>
+   <subject authority="geonames"
+            valueURI="https://sws.geonames.org/4634946/">
+     <geographic>Knoxville (Tenn.)</geographic>
+     <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+     </cartographics>
    </subject>
    <typeOfResource>still image</typeOfResource>
    <relatedItem displayLabel="Project" type="host">
