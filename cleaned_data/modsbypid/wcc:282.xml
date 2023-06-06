@@ -43,10 +43,10 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85114487">
       <topic>Roads</topic>
    </subject>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/4811392">
+   <subject authority="geonames" valueURI="https://sws.geonames.org/4635692/">
       <geographic>Laurel Creek</geographic>
       <cartographics>
-         <coordinates>37.85734, -80.99371</coordinates>
+         <coordinates>35.64148, -83.71517</coordinates>
       </cartographics>
    </subject>
    <subject authority="lcsh"

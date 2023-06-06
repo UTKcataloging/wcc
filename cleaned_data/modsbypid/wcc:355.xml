@@ -35,10 +35,10 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/4119374">
+   <subject authority="geonames" valueURI="https://sws.geonames.org/9884945/">
       <geographic>Little River</geographic>
       <cartographics>
-         <coordinates>33.70054, -94.23434</coordinates>
+         <coordinates>35.65304, -83.56978</coordinates>
       </cartographics>
    </subject>
    <subject authority="lcsh"

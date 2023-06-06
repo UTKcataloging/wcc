@@ -41,9 +41,19 @@
          <namePart>University of Tennessee (Knoxville campus)</namePart>
       </name>
    </subject>
-   <subject authority="naf"
-            valueURI="http://id.loc.gov/authorities/names/n79109786">
+   <subject authority="geonames"
+            valueURI="https://sws.geonames.org/4634946/">
       <geographic>Knoxville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames"
+            valueURI="https://sws.geonames.org/4664275/">
+      <geographic>University of Tennessee</geographic>
+      <cartographics>
+         <coordinates>35.95425, -83.93074</coordinates>
+      </cartographics>
    </subject>
    <typeOfResource>still image</typeOfResource>
    <relatedItem displayLabel="Project" type="host">

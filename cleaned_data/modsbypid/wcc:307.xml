@@ -35,16 +35,16 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/5432425">
+   <subject authority="geonames" valueURI="https://sws.geonames.org/4644686/">
       <geographic>Mount Nebo</geographic>
       <cartographics>
-         <coordinates>37.67611, -107.50839</coordinates>
+         <coordinates>35.72902, -83.82622</coordinates>
       </cartographics>
    </subject>
-   <subject authority="geonames" valueURI="http://sws.geonames.org/2153081">
+   <subject authority="geonames" valueURI="https://sws.geonames.org/4649562/">
       <geographic>Pine Mountain</geographic>
       <cartographics>
-         <coordinates>-33.8318, 148.8512</coordinates>
+         <coordinates>35.59647, -83.91907</coordinates>
       </cartographics>
    </subject>
    <subject authority="lcsh"
